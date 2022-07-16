@@ -1,0 +1,14 @@
+C:\sources\Visual Studio\ApiControlProyectos\ApiControlProyectos\bin\Debug\netcoreapp2.1\ApiControlProyectos.deps.json
+C:\sources\Visual Studio\ApiControlProyectos\ApiControlProyectos\bin\Debug\netcoreapp2.1\ApiControlProyectos.runtimeconfig.json
+C:\sources\Visual Studio\ApiControlProyectos\ApiControlProyectos\bin\Debug\netcoreapp2.1\ApiControlProyectos.runtimeconfig.dev.json
+C:\sources\Visual Studio\ApiControlProyectos\ApiControlProyectos\bin\Debug\netcoreapp2.1\ApiControlProyectos.dll
+C:\sources\Visual Studio\ApiControlProyectos\ApiControlProyectos\obj\Debug\netcoreapp2.1\ApiControlProyectos.csproj.CoreCompileInputs.cache
+C:\sources\Visual Studio\ApiControlProyectos\ApiControlProyectos\obj\Debug\netcoreapp2.1\ApiControlProyectos.RazorAssemblyInfo.cache
+C:\sources\Visual Studio\ApiControlProyectos\ApiControlProyectos\obj\Debug\netcoreapp2.1\ApiControlProyectos.RazorAssemblyInfo.cs
+C:\sources\Visual Studio\ApiControlProyectos\ApiControlProyectos\obj\Debug\netcoreapp2.1\ApiControlProyectos.AssemblyInfoInputs.cache
+C:\sources\Visual Studio\ApiControlProyectos\ApiControlProyectos\obj\Debug\netcoreapp2.1\ApiControlProyectos.AssemblyInfo.cs
+C:\sources\Visual Studio\ApiControlProyectos\ApiControlProyectos\obj\Debug\netcoreapp2.1\ApiControlProyectos.RazorTargetAssemblyInfo.cache
+C:\sources\Visual Studio\ApiControlProyectos\ApiControlProyectos\bin\Debug\netcoreapp2.1\ApiControlProyectos.pdb
+C:\sources\Visual Studio\ApiControlProyectos\ApiControlProyectos\obj\Debug\netcoreapp2.1\ApiControlProyectos.dll
+C:\sources\Visual Studio\ApiControlProyectos\ApiControlProyectos\obj\Debug\netcoreapp2.1\ApiControlProyectos.pdb
+C:\sources\Visual Studio\ApiControlProyectos\ApiControlProyectos\obj\Debug\netcoreapp2.1\ApiControlProyectos.csprojAssemblyReference.cache
